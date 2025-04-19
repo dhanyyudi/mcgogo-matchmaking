@@ -1246,16 +1246,4 @@ else:
             <li>Prediksi matchup pada round berikutnya akan muncul secara otomatis</li>
         </ol>
     </div>
-    
-    <div class="card">
-        <h3>Pola Prediksi:</h3>
-        <ul>
-            <li><strong>Round I-3</strong>: Pemain bertemu dengan lawan dari orang yang dilawan di I-2 pada round I-1</li>
-            <li><strong>Round II-2</strong>: Pemain bertemu dengan lawan dari lawan di II-1 di I-1</li>
-            <li><strong>Round II-4</strong>: Pemain bertemu dengan orang yang dilawan lawan II-1 di I-3</li>
-            <li><strong>Round II-5</strong>: Pemain bertemu dengan pemain yang belum pernah dilawan</li>
-            <li><strong>Round II-6</strong>: Sama dengan I-1</li>
-            <li><strong>Round berikutnya</strong>: Mengikuti pola yang sama</li>
-        </ul>
-    </div>
     """, unsafe_allow_html=True)

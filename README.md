@@ -3,6 +3,7 @@
 ![Magic Chess: GoGo](https://blog.rrqtopup.com/wp-content/uploads/2025/03/Go-Go-Card-di-Magic-Chess-Go-Go-3.jpeg)
 
 A Streamlit application for predicting and managing matchups in Magic Chess: GoGo tournaments with 8 players.
+Akses Langsung kesini [MCGogo Matchmaking](https://mcgogo.streamlit.app/)
 
 ## Overview
 
